@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Master baranch file
+=======
+Main Branch
+>>>>>>> main
